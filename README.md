@@ -4,5 +4,7 @@ This project was produced as part of the Machine Learning and Neural Netword cou
 Group members are Arna Aimysheva and Sophie Lepennetier.
 
 Two notebooks are available: one for imputing missing data and the other for data exploration and model training.
+
 Objective: regression to predict synchrony
+
 Models trained: Ridge Regression, Support Vector Regression and ElasticNet Regression
